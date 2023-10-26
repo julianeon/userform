@@ -2,11 +2,11 @@
 
 ## Overview
 
-![upload_form_working](upload_form_working.png)
-
 This one-page TypeScript app accepts user input and uploads the data to an API endpoint.
 
 If your endpoint works, and the fields match, you'll be able to save the data. Confirmed to work with my own personal API endpoint (not included).
+
+![upload_form_working](upload_form_working.png)
 
 ## Features
 
@@ -28,8 +28,6 @@ The page will reload if you make edits.\
 
 ## Learn More
 
-This app was created with Create React App.
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This app was created with [Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
