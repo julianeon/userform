@@ -4,7 +4,9 @@
 
 This one-page TypeScript app accepts user input and uploads the data to an API endpoint.
 
-If your endpoint works, and the fields match, you'll be able to save the data. It has been confirmed to work with my own personal API endpoint (not included).
+If your endpoint works, and the fields match, you'll be able to save the data. 
+
+This code has been confirmed to work with my own personal API endpoint (not included).
 
 ![upload_form_working](upload_form_working.png)
 
