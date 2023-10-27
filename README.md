@@ -2,7 +2,7 @@
 
 ## Overview
 
-This one-page TypeScript app accepts user input and uploads the data to an API endpoint.
+This one-page TypeScript app using React accepts user input and uploads the data to an API endpoint.
 
 If your endpoint works, and the fields match, you'll be able to save the data. 
 
@@ -18,7 +18,7 @@ If the submission is successful, the user will be told 'thank you' and that the 
 
 If you don't have an API endpoint to upload to, you can use the form and submit data, but you'll receive a message saying the API request was not successful (which is okay if all you want to do is see how it works).
 
-To compare this TypeScript code to similar JavaScript code in React serving the same purpose, see this [gist](https://gist.github.com/julianeon/767e32fc069d0a1568683deb4dd31fb0) and [this article](https://javascriptpage.com/make-an-email-submit-form-with-javascript) explaining it.
+To compare this TypeScript code to similar JavaScript code also using React for the same purpose, see this [gist](https://gist.github.com/julianeon/767e32fc069d0a1568683deb4dd31fb0) and [this article](https://javascriptpage.com/make-an-email-submit-form-with-javascript) explaining it.
 
 ## How to Run
 
