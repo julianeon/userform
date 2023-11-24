@@ -33,3 +33,5 @@ The page will reload if you make edits.
 ## Learn More
 
 This app was created with [Create React App](https://facebook.github.io/create-react-app/docs/getting-started) using [React](https://reactjs.org/).
+
+Other TypeScript apps: [clock](https://github.com/julianeon/clock).
